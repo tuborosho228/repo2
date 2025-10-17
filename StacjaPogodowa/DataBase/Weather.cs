@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataBase
 {
-    internal class Weather
+    public class Weather
     {
         public int Id { get; set; }
 

@@ -1,10 +1,6 @@
-﻿
+﻿using DataBase;
 
-using DataBase;
-
-
-    
-        Weather weather = new Weather();
+Weather weather = new Weather();
         Weather weather1 = new Weather();
         Console.WriteLine("Hello, World!");
         Console.ReadKey();
